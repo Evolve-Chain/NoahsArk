@@ -157,6 +157,7 @@
   align-items: center;
   .video-container {
     .background-video {
+      // eslint-disable-next-line
       object-fit: cover;
       position: absolute;
       top: 0;
